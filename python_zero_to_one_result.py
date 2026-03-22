@@ -59,6 +59,6 @@ print("Tengo 3 metas que quiero cumplir este año");
 
 """**10. Mini perfil**"""
 
-print("Nombre: Carlos")
-print("Edad: 20")
-print("País: Colombia")
+print("Nombre: Carlos");
+print("Edad: 20");
+print("País: Colombia");
